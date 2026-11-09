@@ -1,0 +1,6 @@
+{
+  "name": "RestoreTabsV2",
+  "description": "Reconstructs the Tabs V2 bottom navigation bar after experiment removal.",
+  "authors": [{ "name": "YourName", "id": "0" }],
+  "version": "1.0.0"
+}
